@@ -1,0 +1,12 @@
+---
+title: Adversus is a web-based dialer and practical CRM solution
+date: '2020-04-18T04:07:21.000Z'
+image: images/blog/post-1.jpg
+type: featured
+description: This is meta description
+draft: false
+---
+
+Hello! Updated from Cloudcannon!!
+
+Hello World! Updated from TinaCMS!
