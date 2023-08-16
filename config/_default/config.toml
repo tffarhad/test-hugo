@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://demo.gethugothemes.com/"
+baseURL = "https://test-hugo.netlify.app/"
 title = "Bigspring Light"
 theme = "bigspring-light-hugo"
 # post pagination
