@@ -5,7 +5,7 @@ description: This is meta description
 draft: false
 basic:
   name: Basic Plan
-  price: $49
+  price: $4999
   price_per: month
   info: Best For Small Individuals
   services:
