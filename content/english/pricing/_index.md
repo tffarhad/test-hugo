@@ -18,7 +18,7 @@ basic:
     link: '#'
 professional:
   name: Professional Plan
-  price: $49
+  price: $0000
   price_per: month
   info: Best For Professionals
   services:
