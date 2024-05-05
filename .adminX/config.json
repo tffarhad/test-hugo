@@ -9,5 +9,13 @@
   "themeConfig": [
     "config/_default"
   ],
-  "arrangement": {}
+  "arrangement": {
+    "content/english/blog": {
+      "Blogs": {
+        "weight": 0,
+        "include": "",
+        "exclude": ""
+      }
+    }
+  }
 }
