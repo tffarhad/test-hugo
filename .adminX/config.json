@@ -9,18 +9,5 @@
   "themeConfig": [
     "config/_default"
   ],
-  "arrangement": {
-    "content/english/blog": {
-      "Blogs": {
-        "weight": 0,
-        "include": "",
-        "exclude": ""
-      }
-    },
-    "content/english/faq/_index.md": {
-      "kjjkjj": {
-        "weight": 1
-      }
-    }
-  }
+  "arrangement": {}
 }
