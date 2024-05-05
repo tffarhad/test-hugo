@@ -1,15 +1,10 @@
-######################## default configuration ####################
 baseURL = "https://test-hugo.netlify.app"
-title = "Bigspring Light"
-theme = "bigspring-light-hugo"
-# post pagination
+title = "MR. Mukles CMS"
+theme = ""
 paginate = "3"
-# post excerpt
 summaryLength = "15"
-# disqus short name
-disqusShortname = "" # get your shortname form here : https://disqus.com
-# google analytics
-googleAnalytics = "" # example : UA-123-45
-# unsafe html
+disqusShortname = ""
+googleAnalytics = ""
+
 [markup.goldmark.renderer]
 unsafe = true
