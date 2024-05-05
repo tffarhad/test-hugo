@@ -1,0 +1,51 @@
+{
+  "file": "content/english/blog/post-1.md",
+  "name": "blog",
+  "fileType": "md",
+  "fmType": "yaml",
+  "template": [
+    {
+      "label": "Title",
+      "name": "title",
+      "type": "string",
+      "value": "",
+      "description": "tooltip",
+      "isRequired": true
+    },
+    {
+      "label": "Date",
+      "name": "date",
+      "type": "object"
+    },
+    {
+      "label": "Image",
+      "name": "image",
+      "type": "media",
+      "value": ""
+    },
+    {
+      "label": "Type",
+      "name": "type",
+      "type": "string",
+      "value": ""
+    },
+    {
+      "label": "Description",
+      "name": "description",
+      "type": "string",
+      "value": ""
+    },
+    {
+      "label": "Draft",
+      "name": "draft",
+      "type": "boolean",
+      "value": ""
+    },
+    {
+      "label": "Published",
+      "name": "published",
+      "type": "boolean",
+      "value": ""
+    }
+  ]
+}
