@@ -16,6 +16,11 @@
         "include": "",
         "exclude": ""
       }
+    },
+    "content/english/faq/_index.md": {
+      "kjjkjj": {
+        "weight": 1
+      }
     }
   }
 }
