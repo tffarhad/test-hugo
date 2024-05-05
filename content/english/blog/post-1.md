@@ -1,5 +1,5 @@
 ---
-title: Adversus is a web-based dialer and practical CRM solution
+title: Hello CMS!
 date: {}
 image: images/blog/post-1.jpg
 type: featured
@@ -8,7 +8,6 @@ draft: false
 published: true
 ---
 
-
 Hello! Updated from cloudcannon!!
-
-Hello Hello from prose.io.  
+Hello Hello from prose.io.
+Hello Adminx CMS!
