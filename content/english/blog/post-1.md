@@ -1,5 +1,5 @@
 ---
-title: Hello CMS!
+title: ''
 date: {}
 image: images/blog/post-1.jpg
 type: featured
@@ -10,3 +10,4 @@ published: true
 
 Hello! Updated from cloudcannon!!
 Hello Hello from prose.io.
+Hello Adminx CMS!
