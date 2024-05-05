@@ -5,11 +5,11 @@
   "fmType": "yaml",
   "template": [
     {
-      "label": "Title",
+      "label": "Test Title",
       "name": "title",
       "type": "string",
       "value": "",
-      "description": "tooltip",
+      "description": "Test Toooltip",
       "isRequired": true
     },
     {
