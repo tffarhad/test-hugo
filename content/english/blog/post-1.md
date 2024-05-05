@@ -10,4 +10,3 @@ published: true
 
 Hello! Updated from cloudcannon!!
 Hello Hello from prose.io.
-Hello Adminx CMS!
