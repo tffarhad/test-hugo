@@ -1,6 +1,6 @@
 baseURL = "https://test-hugo.netlify.app"
 title = "MR. Mukles CMS"
-theme = ""
+theme = "bigspring-light-hugo"
 paginate = "3"
 summaryLength = "15"
 disqusShortname = ""
