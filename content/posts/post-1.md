@@ -1,5 +1,5 @@
 ---
-title: Adversus is a web-based dialer and practical CRM solution
+title: Hello From Mukles CMS!
 date: '2020-04-18T04:07:21.000Z'
 image: images/blog/post-1.jpg
 type: featured
@@ -8,5 +8,4 @@ draft: false
 ---
 
 Hello! Updated from Cloudcannon!!
-
 Hello World! Updated from TinaCMS!
