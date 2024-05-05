@@ -9,13 +9,5 @@
   "themeConfig": [
     "config/_default"
   ],
-  "arrangement": {
-    "content/english": {
-      "English Content ": {
-        "weight": 0,
-        "include": "",
-        "exclude": ""
-      }
-    }
-  }
+  "arrangement": {}
 }
