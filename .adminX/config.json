@@ -16,6 +16,11 @@
         "include": "*md",
         "exclude": "*index.md"
       }
+    },
+    "content/posts/post-1.md": {
+      "post-1": {
+        "weight": 1
+      }
     }
   }
 }
