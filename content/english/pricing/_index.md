@@ -4,7 +4,7 @@ subtitle: ''
 description: This is meta description
 draft: false
 basic:
-  name: Basic Plan
+  name: Basic PlaN
   price: $20
   price_per: month
   info: Best For Small Individuals
