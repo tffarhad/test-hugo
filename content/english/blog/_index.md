@@ -1,7 +1,9 @@
 ---
-title: "Latest News"
-subtitle: ""
-# meta description
-description: "This is meta description"
+title: Latest News
+subtitle: ''
+description: This is meta description
 draft: false
+type: regulars
 ---
+
+I am sumon bro
